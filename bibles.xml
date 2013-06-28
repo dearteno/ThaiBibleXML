@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<RECORDS>
+<RECORD>
+<name_txt>มาตรฐานสมาคมพระคริสตธรรมไทย (2011)</name_txt>
+<count_num>66</count_num>
+<table_name>tsv_verses</table_name>
+</RECORD>
+<RECORD>
+<name_txt>สมาคมพระคริสตธรรมไทย (1971)</name_txt>
+<count_num>66</count_num>
+<table_name>tbs_verses</table_name>
+</RECORD>
+</RECORDS>
